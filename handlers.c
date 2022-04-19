@@ -1,9 +1,3 @@
-/*
- * File: handlers.c
- * Auth: Edwin Rimui
- *       
- */
-
 #include "main.h"
 
 unsigned char handle_flags(const char *flag, char *index);

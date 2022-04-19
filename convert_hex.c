@@ -1,9 +1,3 @@
-/*
- * File: convert_hex.c
- * Auth: Edwin Rimui
- *       
- */
-
 #include "main.h"
 
 unsigned int convert_x(va_list args, buffer_t *output,
