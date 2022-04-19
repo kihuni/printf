@@ -1,9 +1,3 @@
-/*
- * File: convert_numbers.c
- * Auth: Edwin Rimui
- *       
- */
-
 #include "main.h"
 
 unsigned int convert_di(va_list args, buffer_t *output,

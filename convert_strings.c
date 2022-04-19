@@ -1,9 +1,3 @@
-/*
- * File: convert_strings.c
- * Auth: Edwin Rimui
- *       
- */
-
 #include "main.h"
 
 unsigned int convert_s(va_list args, buffer_t *output,

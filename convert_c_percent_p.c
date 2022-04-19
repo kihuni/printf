@@ -1,7 +1,3 @@
-/*
- 
- */
-
 #include "main.h"
 
 unsigned int convert_c(va_list args, buffer_t *output,
